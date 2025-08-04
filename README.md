@@ -14,7 +14,7 @@ conda activate S2AN_a
 2. Clone the repository as:
 ```
 git clone https://github.com/zihaodong/S2AN-ASPM.git
-cd S2AN-ASPM/AI2-THOR
+cd S2AN-ASPM/S2AN-ASPM_ai2_thor
 ```
 
 3. For the rest of dependencies, please run 
@@ -28,7 +28,7 @@ Please follow the data structure and setup used in [Zero-Shot-Object-Navigation]
 
 Specifically:
 
-- For **evaluation**, download [`data.zip` (~5 GB)](https://drive.google.com/drive/folders/1i6V_t6TqaTpUdUFpOJT3y3KraJjak-sa?usp=sharing), unzip it, and place it in the `S2AN-ASPM/AI2-THOR` folder.
+- For **evaluation**, download [`data.zip` (~5 GB)](https://drive.google.com/drive/folders/1i6V_t6TqaTpUdUFpOJT3y3KraJjak-sa?usp=sharing), unzip it, and place it in the `S2AN-ASPM/S2AN-ASPM_ai2_thor` folder.
 
 - For **training**, download `train.zip` (~9 GB), unzip it, and move all `Floorplan*` folders into `./data/thor_v1_offline_data/`.
 
