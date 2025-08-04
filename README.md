@@ -28,7 +28,7 @@ Please follow the data structure and setup used in [Zero-Shot-Object-Navigation]
 
 Specifically:
 
-- For **evaluation**, download [`data.zip` (~5 GB)](https://drive.google.com/drive/folders/1i6V_t6TqaTpUdUFpOJT3y3KraJjak-sa?usp=sharing), unzip it, and place it in the `Zero-Shot-Object-Navigation` folder.
+- For **evaluation**, download [`data.zip` (~5 GB)](https://drive.google.com/drive/folders/1i6V_t6TqaTpUdUFpOJT3y3KraJjak-sa?usp=sharing), unzip it, and place it in the `S2AN-ASPM/AI2-THOR` folder.
 
 - For **training**, download `train.zip` (~9 GB), unzip it, and move all `Floorplan*` folders into `./data/thor_v1_offline_data/`.
 
