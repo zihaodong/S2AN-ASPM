@@ -92,7 +92,6 @@ python main.py \
 ### Visualization
 
 The `visualization` folder contains a collection of scripts for visualizing various results.  
-You can run specific scripts based on the type of visualization you need.
 
 
 
