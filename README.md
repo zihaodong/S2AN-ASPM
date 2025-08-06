@@ -136,3 +136,7 @@ python -u -m  habitat_baselines.run --config-name=objectnav/ddppo_objectnav.yaml
 ```bash
 python -u -m  habitat_baselines.run --config-name=objectnav/ddppo_objectnav.yaml habitat_baselines.evaluate=True 
 ```
+
+## Declaration
+
+The provided code is strictly for academic exchange and reference purposes only. Any commercial use or other applications are expressly prohibited.
